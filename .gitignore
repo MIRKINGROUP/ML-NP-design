@@ -5,7 +5,7 @@ __pycache__/
 
 #file
 .vs/
-
+.idea/
 
 # C extensions
 *.so
